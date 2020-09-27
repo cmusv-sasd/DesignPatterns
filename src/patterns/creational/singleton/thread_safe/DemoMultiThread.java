@@ -1,4 +1,4 @@
-package patterns.creational.singleton.example.non_thread_safe;
+package patterns.creational.singleton.thread_safe;
 
 public class DemoMultiThread {
     public static void main(String[] args) {

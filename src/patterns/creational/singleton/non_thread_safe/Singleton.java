@@ -1,4 +1,4 @@
-package patterns.creational.singleton.example.non_thread_safe;
+package patterns.creational.singleton.non_thread_safe;
 
 public final class Singleton {
     private static Singleton instance;

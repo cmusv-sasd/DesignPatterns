@@ -1,4 +1,4 @@
-package patterns.creational.singleton.example.thread_safe;
+package patterns.creational.singleton.thread_safe;
 
 public final class Singleton {
     // The field must be declared volatile so that double check lock would work
