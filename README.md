@@ -38,4 +38,4 @@ Implementation of design patterns
 </ul>
 </ol>
 
-Examples adapter from [Refactoring Guru](https://refactoring.guru/)
+Examples adapted from [Refactoring Guru](https://refactoring.guru/)
