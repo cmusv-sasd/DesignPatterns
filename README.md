@@ -1,6 +1,8 @@
 # Design Patterns
 Implementation of design patterns
 
+Required Java 18
+
 <ol>
 <li>Creational Patterns:</li>
 <ul>
